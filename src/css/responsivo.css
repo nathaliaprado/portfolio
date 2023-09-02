@@ -1,0 +1,38 @@
+@media (max-width: 795px) {
+    .cabecalho .nome {
+    font-size: 26px;
+    }   
+    .info .foto {
+        height: 56%;
+        margin-right: 87%;
+    }
+    .info .texto {
+        margin-left: 95%;
+        margin-right: 50%;
+    }
+    .item {
+        font-size: 15px;
+    }
+    .sobre {
+        font-size: 30px;
+    }
+    .formacao {
+        font-size: 20px;
+    } 
+}
+
+
+
+@media (max-width: 510px) {
+    .info .foto {
+        height: 53%;
+        margin-right: 90%;
+    }
+    .info .texto {
+        margin-left: 95%;
+        margin-right: 50%;
+    }
+    .formacao {
+        font-size: 16px;
+    }
+}
